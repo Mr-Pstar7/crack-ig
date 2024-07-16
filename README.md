@@ -27,8 +27,10 @@ pkg install python && git clone https://github.com/Mr-Pstar7/crack-ig && cd crac
 3. mass crack
 4. And others 
 
-## Screenshots:
-
+### [+] Password Tool :
+```
+admin12**
+```
 
 ### [+] The generated python file will be in python 3.x!
 
